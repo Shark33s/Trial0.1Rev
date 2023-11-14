@@ -9,21 +9,20 @@
         <h1>For Trial 01</h1>
             <h2>this is a trial for RevoU program</h2>
                 <h6>This is additional for 3rd commit</h6>
-                <section>
-                    <p><em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.</p> 
-                        <p>Additional fees such as tips given after the order is completed are not included in this receipt.</p>
-                    <p>Try paragraph.</p>
-                </section>
     <section>
-        <a href="Experience"><h1>My Experience</h1></a>
-        <!--This is the creator past experience-->    
+        <p><em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.</p> 
+            <p>Additional fees such as tips given after the order is completed are not included in this receipt.</p>
+        <p>Try paragraph.</p>
     </section>
+            <section>
+                <a href="Experience"><h1>My Experience</h1></a>
+             <!--This is the creator past experience-->    
+            </section>
     <section>
         <h1>Random Windah Content</h1>
             <p><video src="Media/Windah.mp4" controls type="video/mp4" width="500" height="300" alt="Random Windah Content"</p>
     </section>
-<section>
-            <a href="Link"> <h1>Pancasila</h1>
-</section>
+        <a href="Link"> <h1>Pancasila</h1>
+
 </body>
 </html
