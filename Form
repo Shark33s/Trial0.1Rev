@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <form action=""method="Post">
+        <lable for="name">Nama:</label>
+            <input id="name" type="text">
+        <br/>
+        <input type="password"required>
+        <br/>
+        <input type="checkbox">
+        <br/>
+        <input type="radio"><!--Yang pilihan bulet2, yang cuman bisa pilih 1--> 
+        <br/>
+        <input type="number"min="1" max="10">
+        <br/>
+        <input type="submit" value="OK">
+        <textarea rows="8" cols="64">Ketik di sini</textarea>
+        <br/>
+        <input type="submit" value="OK">
+        </form>
+
+<button type="button">
+Belum kelar
+<br/>
+<!--Coba--> 
+<head>
+    <title>Test Form</title>
+</head>
+<h1>Testing Form</h1>
+
+
+<form>
+    <lable for="name">Nama : </lable>
+    <input id="name" type="Text" />
+    <br/>
+    <label for="Umur">Umur ; </label>
+    <input for="Umur" type="number" min="1" max="60"
+    <p> <i><b>Apa warna favorite mu?</b></i> </p>
+    <select>
+        <option>Merah</option>
+        <option>Kuning</option>
+        <option>Hijau</option>
+    </select>
+    <br/>
+    
+    <input type="radio" id="html" name="fav_language" value="HTML">
+    <label for="html">HTML</label><br>
+
+    <input type="radio" id="css" name="fav_language" value="CSS">
+    <label for="html">CSS</label><br>
+
+    <input type="radio" id="html" name="fav_language" value="Java">
+    <label for="html">Java</label><br>
+
+
+</form>
+
+
+</html>

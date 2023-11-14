@@ -3,8 +3,8 @@
 <title>Pancasila</title>
 <h1>Pancasila</h1>
 <body>
-    <ol>
-    <li>Ketuhanan yang maha esa</li>
+    <ol><!--Ordered list (numeric/roman/alphabetical)-->
+    <li><a href=https://www.kompas.com/skola/read/2023/07/24/210000069/arti-dan-makna-sila-pertama-pancasila-beserta-contoh-pengamalannya-dalam>Ketuhanan yang maha esa</a></li>
     <li>Kerakyatan yang adil dan beradab</li>
     <li>Persatuan Indonesia</li>
     <li>Kerakyatan yang dipimpin oleh hikmat dan kebijaksanaan <br>dalam permusyawaratan/perwakilan</br></li>

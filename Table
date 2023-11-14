@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <title>Table</title>
+    <head>
+    <h1>Test Table</h1>
+    <style>
+        table, th, td {
+            Border: 1px solid black;
+        }
+    </style>
+        </head>
+<body>
+    <h1>contoh</h1>
+    <table>
+        <tr>
+            <th>Nama</th>
+            <th>Asal</th>
+            <th>Domisili</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>Shabri</td>
+            <td colspan="2">Jakarta</td>
+            <td>Test@gmail.com</td>
+        </tr>
+    </table>
+</body>
+<a href="Test 2">Back</a>
+</html>

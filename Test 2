@@ -1,28 +1,55 @@
 <!DOCTYPE html>
 <html>
     <img src="Media/kontol.png" width="200" height="200" alt="Cah mukhtey">
+    <img src="https://down-aka-id.img.susercontent.com/id-11134103-23030-cupvd00ja7nvf6.webp" width="400" height="200" alt="kandang kadal"/>
     <head>
         <title>Trial for RevoU</title>
     </head>
 
 <body>
-        <h1>For Trial 01</h1>
+        <h1 style="color:greenyellow">For Trial 01</h1> <!--h1 h2 h3 untuk ukuran-->
             <h2>this is a trial for RevoU program</h2>
-                <h6>This is additional for 3rd commit</h6>
+            <h6>This is additional for 3rd commit</h6>
+    
     <section>
-        <p><em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.</p> 
-            <p>Additional fees such as tips given after the order is completed are not included in this receipt.</p>
-        <p>Try paragraph.</p>
+        <hr>
+            <em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.
+            <br> <!--break-->
+            Additional fees such as tips given after the order is completed are not included in this receipt.
+            <!--b bold, i italic, sup superscript-->
+        
+            <p>Try paragraph.</p>
+                <hr> <!--Buat garis lurus-->
+                    Ini baris 1
+                <br>
+                    ini baris 2
     </section>
+            
             <section>
                 <a href="Experience"><h1>My Experience</h1></a>
              <!--This is the creator past experience-->    
             </section>
+
     <section>
         <h1>Random Windah Content</h1>
             <p><video src="Media/Windah.mp4" controls type="video/mp4" width="500" height="300" alt="Random Windah Content"</p>
     </section>
-        <a href="Link"> <h1>Pancasila</h1>
+        <a href="Link"> <h1>Pancasila</h1></a>
 
 </body>
+
+<a href="Table"> <h1>table</h1></a>
+<table>
+    <tr>
+        <th>Satu</th> <!--Table head-->
+        <th>dua</th>
+        <th>tiga</th>       
+    </tr>
+    <tr>
+        <td>A</td>
+        <td>B</td>
+        <td>C</td>
+    </tr>
+</table>
+
 </html

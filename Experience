@@ -5,7 +5,7 @@
     <body>
         <section>
         <h1>Anteraja</h1><h4>Media and Influencer Marketing</h4>
-            <ul>
+            <ul> <!--unordered list (pointer)-->
             <li>Manage influencer for marketing campaign</li>
             <li>Create plans on marketing campaign related to Media and influencers</li>
             <li>Maintain several vendors all at once depending on the campaign</li>
