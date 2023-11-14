@@ -29,7 +29,8 @@
         </body>
     </section>
     <section>
-            <p><video src="Media/Windah.mp4" controls type="video/mp4" width="500" height="300"</p>
+        <h1>Random Windah Content</h1>
+            <p><video src="Media/Windah.mp4" controls type="video/mp4" width="500" height="300" alt="Random Windah Content"</p>
     </section>
 <section>
             <a href="Link"> <h1>Pancasila</h1>
