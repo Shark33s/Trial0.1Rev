@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
+    <img src="Media/kontol.png" width="200" height="200" alt="Cah mukhtey">
     <head>
         <title>Trial for RevoU</title>
     </head>
-    <body>
+
+<body>
         <h1>For Trial 01</h1>
             <h2>this is a trial for RevoU program</h2>
                 <h6>This is additional for 3rd commit</h6>
-            <section>
-            <p><em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.</p> 
-            <p>Additional fees such as tips given after the order is completed are not included in this receipt.</p>
-             <p>Try paragraph.</p>
-            </section>
+                <section>
+                    <p><em>This trip is insured.</em> The total payment is the price paid when the order is <b><i>completed</i></b>.</p> 
+                        <p>Additional fees such as tips given after the order is completed are not included in this receipt.</p>
+                    <p>Try paragraph.</p>
+                </section>
     <section>
         <h1>Experiences</h1>
         <!--This is the creator past experience-->    
@@ -27,16 +29,10 @@
         </body>
     </section>
     <section>
-        <h1>Pancasila</h1>
-        <body>
-            <ol>
-            <li>Ketuhanan yang maha esa</li>
-            <li>Kerakyatan yang adil dan beradab</li>
-            <li>Persatuan Indonesia</li>
-            <li>Kerakyatan yang dipimpin oleh hikmat dan kebijaksanaan <br>dalam permusyawaratan/perwakilan</br></li>
-            <li>Keadilan sosial bagi seluruh rakyat Indonesia</li>
-            </ol>
-        </body>
+            <p><video src="Media/Windah.mp4" controls type="video/mp4" width="500" height="300"</p>
     </section>
-    </body>
-</html>
+<section>
+            <a href="Link"> <h1>Pancasila</h1>
+</section>
+</body>
+</html
