@@ -15,18 +15,8 @@
                     <p>Try paragraph.</p>
                 </section>
     <section>
-        <h1>Experiences</h1>
+        <a href="Experience"><h1>My Experience</h1></a>
         <!--This is the creator past experience-->    
-            <h4>Media & Influencer Marketing</h4>
-        <body>
-            <ul>
-            <li>Manage influencer for marketing campaign</li>
-            <li>Create plans on marketing campaign related to Media and influencers</li>
-            <li>Maintain several vendors all at once depending on the campaign</li>
-            <li>Maintain the timeline of a campaign related to influencers and vendors</li>
-            <li>Curating influencers and vendors</li>
-            </ul>
-        </body>
     </section>
     <section>
         <h1>Random Windah Content</h1>
